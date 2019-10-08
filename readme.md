@@ -1,3 +1,5 @@
+<h1>Sample Laravel App</h1>
+<h3>Created By: Allan Wu</h3> 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
